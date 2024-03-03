@@ -7,7 +7,6 @@ Weatherify is a web application that provides users with weather information and
 - Display current weather information for a given location.
 - Allow users to interact with a chatbot to receive personalized recommendations based on the weather.
 - Responsive design for seamless user experience.
-- 
 ## Technologies Used
 
 - Frontend:
