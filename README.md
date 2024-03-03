@@ -48,7 +48,7 @@ Weatherify is a web application that provides users with weather information and
 ## Acknowledgements
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing weather data.
-- [Neural network framework/library] for the chatbot functionality.
+- Natural Language Processing Toolkit for the chatbot functionality.
 - [Bootstrap](https://getbootstrap.com/) for the responsive design.
 
 
