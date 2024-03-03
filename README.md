@@ -32,9 +32,7 @@ Weatherify is a web application that provides users with weather information and
 2. Install dependencies:
 
 
-3. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add your OpenWeatherMap API key to the `.env` file:
+3. Make API call.
 
 
 4. Run the Flask app:
