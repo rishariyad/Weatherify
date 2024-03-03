@@ -1,0 +1,104 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "What are your services?",
+        "What is a weather chatbot?",
+        "What do you provide?"
+      ],
+      "responses": [
+        "We provide services like weather information, maximum and minimum temperature and queries about current temperature",
+        "Weather chatbot is an interactive platform where you can get information about weather",
+        "We provide personalized weather information"
+      ]
+    },
+    {
+      "tag": "Sunny",
+      "patterns": [
+        "The temperature shows sunny, what should I do?",
+        "Temperature is 30 degree celsius",
+        "It is Humid"
+        
+      ],
+      "responses": [
+        "Dont forget your sunglasses!!!",
+        "Wear your sunscreen",
+        "Good day for a beach trip"
+      ]
+    },
+    {
+      "tag": "Rainy",
+      "patterns": [
+        "The temperature shows rainy, what should I do?",
+        "Temperature is 20 degree celsius",
+        "It is cloudy"
+        
+      ],
+      "responses": [
+        "Dont forget your Umbrella!!!",
+        "Tea, rain and old songs...What a day"
+        
+      ]
+    },
+    {
+      "tag": "cold",
+      "patterns": [
+        "The temperature shows cold, what should I do?",
+        "Temperature is below 15 degree celsius"
+        
+      ],
+      "responses": [
+        "Dont forget your sweaters!!!",
+        "Personally, I'm an introvert. Let's stay in today :)",
+        "Do you wanna build a snowman?"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "What did the hurricane say to the other hurricane? I have my eye on you.",
+        "What is the best day to go to the beach? Sun-day, of course.",
+        "What do snowmen eat for lunch? Icebergers."
+      ]
+    }
+  ]
+}
+
+
